@@ -9,7 +9,7 @@ body{
 }
 #container{
     background:url('../images/morocco-3794323_1280.jpg'),
-    linear-gradient( to right ,rgba(100,0,0,0.9),rgba(0,0,0,0.7));
+    linear-gradient( to right ,rgba(0,0,0,0.9),rgba(0,0,0,0.7));
     background-size: cover;
     height:100vh;
     padding:10px;
