@@ -1,0 +1,111 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color:lightgreen;
+}
+#container{
+    background:url('../images/morocco-3794323_1280.jpg'),
+    linear-gradient( to right ,rgba(100,0,0,0.9),rgba(0,0,0,0.7));
+    background-size: cover;
+    height:100vh;
+    padding:10px;
+}
+
+#navigation{
+    width:100%;
+    display:flex;
+    flex:100%;
+    flex-direction:row;
+    flex-wrap:wrap;
+    background-color: lightgrey;
+}
+#navigation h1{
+    flex:20%;
+    padding:10px;
+}
+
+#navigation ul{
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    list-style-type: none;
+    flex:40%;
+    align-items: center;
+}
+#navigation ul li{
+    flex:30%;
+    padding:5px;
+    
+}
+
+#empty-space-1{
+    flex:40%;
+    background-color: lightseagreen;
+}
+
+#navigation ul li a{
+    text-decoration: none;
+    padding:5px 10px;
+}
+
+#navigation ul li a:hover{
+    border-bottom: solid white;
+    border-radius: 5px;
+}
+
+content2{
+    margin:200px;
+    padding:100px; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
